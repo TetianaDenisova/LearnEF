@@ -1,0 +1,16 @@
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\bin\Debug\ConsoleApp2ReapeatAll.exe.config
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\bin\Debug\ConsoleApp2ReapeatAll.exe
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\bin\Debug\ConsoleApp2ReapeatAll.pdb
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.csprojResolveAssemblyReference.cache
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.csproj.CoreCompileInputs.cache
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.exe
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.pdb
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\bin\Debug\EntityFramework.dll
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\bin\Debug\EntityFramework.SqlServer.dll
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\bin\Debug\EntityFramework.xml
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\bin\Debug\EntityFramework.SqlServer.xml
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.Migrations.InitialCreate.resources
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.csproj.GenerateResource.Cache
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.Migrations.AddToyTable.resources
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.Migrations.AlterToyTable.resources
+E:\Skills improving\ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll\obj\Debug\ConsoleApp2ReapeatAll.Migrations.AddTables.resources
