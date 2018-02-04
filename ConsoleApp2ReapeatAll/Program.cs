@@ -12,7 +12,19 @@ namespace ConsoleApp2ReapeatAll
         {
             using (City context = new City())
             {
-                Footballer Ronaldo = new Footballer
+                var list = context.Teams
+                                  .Include("footballer")
+                                  .ToList();
+
+                foreach (var i in list)
+                {
+                    foreach (var item in i.footballer)
+                    {
+                        Console.WriteLine(i.Name + " ...  " + item.Name);
+
+                    }
+                }
+                Console.WriteLine("I ended");
 
             }
             Console.Read();

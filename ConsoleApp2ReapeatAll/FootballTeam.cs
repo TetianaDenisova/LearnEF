@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2ReapeatAll
 {
-   public class FootballTeam
+    public class FootballTeam
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public ICollection<Footballer> footballer { get; set; }
-        FootballTeam()
+        public FootballTeam()
         {
             footballer = new Collection<Footballer>();
         }

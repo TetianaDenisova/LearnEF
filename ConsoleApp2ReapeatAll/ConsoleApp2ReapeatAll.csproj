@@ -55,6 +55,7 @@
     <Compile Include="Command.cs" />
     <Compile Include="Dormitory.cs" />
     <Compile Include="Footballer.cs" />
+    <Compile Include="Initializator.cs" />
     <Compile Include="Migrations\201802040744499_InitialCreate.cs" />
     <Compile Include="Migrations\201802040744499_InitialCreate.Designer.cs">
       <DependentUpon>201802040744499_InitialCreate.cs</DependentUpon>

@@ -6,6 +6,11 @@ namespace ConsoleApp2ReapeatAll
 
     public class City : DbContext
     {
+
+        static City()
+        {
+            Database.SetInitializer<City>(new Initializator());
+        }
         public City()
              : base("main")
         {
@@ -16,6 +21,6 @@ namespace ConsoleApp2ReapeatAll
         public DbSet<Footballer> Footballers { get; set; }
         public DbSet<FootballTeam> Teams { get; set; }
     }
-
-
 }
+
+
