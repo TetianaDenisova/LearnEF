@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2ReapeatAll", "ConsoleApp2ReapeatAll\ConsoleApp2ReapeatAll.csproj", "{E15943F8-7650-4787-BD2B-2D99E74C9B4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryUnityOfWork", "TryUnityOfWork\TryUnityOfWork.csproj", "{FB6ADD83-EFC9-4B1B-9190-E2E81AFB6AA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E15943F8-7650-4787-BD2B-2D99E74C9B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E15943F8-7650-4787-BD2B-2D99E74C9B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E15943F8-7650-4787-BD2B-2D99E74C9B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6ADD83-EFC9-4B1B-9190-E2E81AFB6AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6ADD83-EFC9-4B1B-9190-E2E81AFB6AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6ADD83-EFC9-4B1B-9190-E2E81AFB6AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6ADD83-EFC9-4B1B-9190-E2E81AFB6AA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
