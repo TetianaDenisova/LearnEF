@@ -51,10 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CityContext.cs" />
-    <Compile Include="Command.cs" />
-    <Compile Include="Dormitory.cs" />
-    <Compile Include="Footballer.cs" />
+    <Compile Include="Context\CityContext.cs" />
+    <Compile Include="BLogic\Command.cs" />
+    <Compile Include="Model\Dormitory.cs" />
+    <Compile Include="Model\Footballer.cs" />
     <Compile Include="Migrations\201802040744499_InitialCreate.cs" />
     <Compile Include="Migrations\201802040744499_InitialCreate.Designer.cs">
       <DependentUpon>201802040744499_InitialCreate.cs</DependentUpon>
@@ -74,9 +74,9 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
-    <Compile Include="FootballTeam.cs" />
-    <Compile Include="Toy.cs" />
+    <Compile Include="Model\Student.cs" />
+    <Compile Include="Model\FootballTeam.cs" />
+    <Compile Include="Model\Toy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -10,11 +10,7 @@ namespace ConsoleApp2ReapeatAll
     {
         static void Main(string[] args)
         {
-            using (CityContext context = new CityContext())
-            {
-                Footballer Ronaldo = new Footballer
-
-            }
+           \
             Console.Read();
 
         }
