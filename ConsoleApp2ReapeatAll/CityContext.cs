@@ -4,9 +4,9 @@ namespace ConsoleApp2ReapeatAll
     using System.Data.Entity;
     using System.Linq;
 
-    public class City : DbContext
+    public class CityContext : DbContext
     {
-        public City()
+        public CityContext()
              : base("main")
         {
         }

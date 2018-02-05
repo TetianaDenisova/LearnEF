@@ -10,7 +10,7 @@ namespace ConsoleApp2ReapeatAll
     {
         static void Main(string[] args)
         {
-            using (City context = new City())
+            using (CityContext context = new CityContext())
             {
                 Footballer Ronaldo = new Footballer
 

@@ -5,7 +5,7 @@ namespace ConsoleApp2ReapeatAll.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ConsoleApp2ReapeatAll.City>
+    internal sealed class Configuration : DbMigrationsConfiguration<ConsoleApp2ReapeatAll.CityContext>
     {
         public Configuration()
         {
@@ -13,7 +13,7 @@ namespace ConsoleApp2ReapeatAll.Migrations
             ContextKey = "ConsoleApp2ReapeatAll.City";
         }
 
-        protected override void Seed(ConsoleApp2ReapeatAll.City context)
+        protected override void Seed(ConsoleApp2ReapeatAll.CityContext context)
         {
             //  This method will be called after migrating to the latest version.
 
